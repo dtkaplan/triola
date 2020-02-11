@@ -1,0 +1,11 @@
+Package: triola
+Type: Package
+Title: Data sets used in Triola's Elementary Statistics (13e)
+Version: 0.1.0
+Author: The data originated with Triola's group
+Maintainer: Daniel Kaplan <kaplan@macalester.edu>
+Description: A translation  of the datasets at https://www.triolastats.com/es13-datasets into R format
+License: This package is not published independently
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
