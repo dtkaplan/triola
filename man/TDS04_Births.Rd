@@ -1,5 +1,5 @@
 \name{ch04_Births}
-\alias{ch04_Births}
+\alias{TDS04_Births}
 \docType{data}
 \title{
 Data available on Triola's Elementary Statistics web site
@@ -7,7 +7,7 @@ Data available on Triola's Elementary Statistics web site
 \description{
 Refer to  the textbook for any documentation.
 }
-\usage{data("ch04_Births")}
+\usage{data("TDS04_Births")}
 \format{
   A data frame with 400 observations on the following 8 variables.
   \describe{

@@ -7,7 +7,7 @@ Data available on Triola's Elementary Statistics web site
 \description{
 Refer to  the textbook for any documentation.
 }
-\usage{data("ch02_Foot_and_Height")}
+\usage{data("TDS02_Foot_and_Height")}
 \format{
   A data frame with 40 observations on the following 6 variables.
   \describe{

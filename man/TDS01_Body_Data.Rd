@@ -1,5 +1,5 @@
-\name{ch01_Body_Data}
-\alias{ch01_Body_Data}
+\name{TDS01_Body_Data}
+\alias{TDS01_Body_Data}
 \docType{data}
 \title{
 Data available on Triola's Elementary Statistics web site
@@ -7,7 +7,7 @@ Data available on Triola's Elementary Statistics web site
 \description{
 Refer to  the textbook for any documentation.
 }
-\usage{data("ch01_Body_Data")}
+\usage{data("TDS01_Body_Data")}
 \format{
   A data frame with 300 observations on the following 15 variables.
   \describe{
